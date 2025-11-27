@@ -8,7 +8,7 @@ El objetivo del portafolio es documentar los procesos de análisis completos, in
 En particular, se generaron tres diferentes proyectos, cada uno enfocado en situaciones hipóteticas distintas. La primer carpeta ´´factor analysis,'' se enfoca primordialmente en un caso proctco para entender la satisfacción de los clientes y generar estrategias para mejorar el servicio en una consultoría. Por su parte, el segundo proyecto, de ''discriminant analysis,'' esta enfocado en clasificar clientes con scores default o no en términos de deudas y prestamos. Por último, se presenta un proyecto de agrupación de clientes, para poder identificar los diferentes grupos que una empresa de e-commerce tiene y a partir de ello generar estrategias de valor.
 
 
-## 📊 Casos del Portafolio
+##  Resumen de casos
 
 | **Caso** | **Método** | **Pregunta de Negocio** | **Hallazgo Clave** | **Link** |
 |---------|------------|--------------------------|--------------------|----------|
