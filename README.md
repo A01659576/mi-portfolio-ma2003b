@@ -21,6 +21,7 @@ En particular, se generaron tres diferentes proyectos, cada uno enfocado en situ
 
 
 ## Estructura del repositorio
+```md
 mi-portfolio-ma2003b/
 │
 ├── README.md                  # Descripción general del portafolio
@@ -51,4 +52,4 @@ mi-portfolio-ma2003b/
     ├── reports/
     ├── src/
     └── visualizations/
-
+```
