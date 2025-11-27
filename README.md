@@ -23,18 +23,18 @@ En particular, se generaron tres diferentes proyectos, cada uno enfocado en situ
 ## Estructura del repositorio
 mi-portfolio-ma2003b/
 │
-├── README.md                  # Portada y descripción general del portafolio
+├── README.md                  # Descripción general del portafolio
 ├── LICENSE                    # Licencia del proyecto
-├── requirements.txt           # Librerías necesarias para reproducir los casos
-├── .gitignore                 # Archivos y carpetas ignorados por Git
+├── requirements.txt           # Dependencias para reproducibilidad
+├── .gitignore                 # Archivos ignorados por Git
 │
 ├── case-01-factor-analysis/
-│   ├── README.md              # Documentación específica del caso 01
-│   ├── data/                  # Datos crudos y diccionario de variables
-│   ├── notebooks/             # Notebook con el análisis paso a paso
-│   ├── reports/               # Reporte ejecutivo y reporte técnico
-│   ├── src/                   # Funciones auxiliares utilizadas
-│   └── visualizations/        # Gráficas generadas en el análisis
+│   ├── README.md              # Documentación del caso 01
+│   ├── data/                  # Datos utilizados
+│   ├── notebooks/             # Notebook(s) con el análisis
+│   ├── reports/               # Reporte ejecutivo y técnico
+│   ├── src/                   # Funciones auxiliares
+│   └── visualizations/        # Gráficas generadas
 │
 ├── case-02-credit-risk/
 │   ├── README.md
@@ -51,5 +51,4 @@ mi-portfolio-ma2003b/
     ├── reports/
     ├── src/
     └── visualizations/
-
 
