@@ -13,5 +13,5 @@ En particular, se generaron tres diferentes proyectos, cada uno enfocado en situ
 | **Caso** | **Método** | **Pregunta de Negocio** | **Hallazgo Clave** | **Link** |
 |---------|------------|--------------------------|--------------------|----------|
 | TechnoServe Customer Satisfaction | Factor Analysis | ¿Qué dimensiones latentes impulsan la satisfacción del cliente? | 5 factores explican 67% de la varianza; *Excelencia Técnica* es el factor más importante | [Ver caso →](./case-01-factor-analysis/) |
-| LendSmart Credit Risk | Discriminant Analysis | ¿Cómo clasificar aplicantes de crédito en categorías de riesgo? | Modelo con 85% de accuracy; ingreso y historial crediticio son predictores clave | *Link pendiente* |
+| LendSmart Credit Risk | Discriminant Analysis | ¿Cómo clasificar aplicantes de crédito en categorías de riesgo? | Modelo con 85% de accuracy; ingreso y historial crediticio son predictores clave | [Ver caso →](./case-02-discriminant-analysis/)  |
 | ShopSmart Customer Segmentation | Cluster Analysis | ¿Qué segmentos naturales existen en la base de clientes? | 5 clusters identificados; *High-Value Loyalists* representan 18% pero generan 45% de los ingresos | *Link pendiente* |
