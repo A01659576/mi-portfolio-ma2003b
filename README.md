@@ -6,3 +6,12 @@ Este portafolio reúne los principles casos prácticos desarrollados a lo largo 
 El objetivo del portafolio es documentar los procesos de análisis completos, incluyendo código, resultados, interpretación y reportes ejecutivos, siguiendo un enfoque reproducible y profesional. Los códigos generados en estas carpetas son mediante el lenguaje de Python. 
 
 En particular, se generaron tres diferentes proyectos, cada uno enfocado en situaciones hipóteticas distintas. La primer carpeta ´´factor analysis,'' se enfoca primordialmente en un caso proctco para entender la satisfacción de los clientes y generar estrategias para mejorar el servicio en una consultoría. Por su parte, el segundo proyecto, de ''discriminant analysis,'' esta enfocado en clasificar clientes con scores default o no en términos de deudas y prestamos. Por último, se presenta un proyecto de agrupación de clientes, para poder identificar los diferentes grupos que una empresa de e-commerce tiene y a partir de ello generar estrategias de valor.
+
+
+## 📊 Casos del Portafolio
+
+| **Caso** | **Método** | **Pregunta de Negocio** | **Hallazgo Clave** | **Link** |
+|---------|------------|--------------------------|--------------------|----------|
+| TechnoServe Customer Satisfaction | Factor Analysis | ¿Qué dimensiones latentes impulsan la satisfacción del cliente? | 5 factores explican 67% de la varianza; *Excelencia Técnica* es el factor más importante | [Ver caso →](./case-01-factor-analysis/) |
+| LendSmart Credit Risk | Discriminant Analysis | ¿Cómo clasificar aplicantes de crédito en categorías de riesgo? | Modelo con 85% de accuracy; ingreso y historial crediticio son predictores clave | *Link pendiente* |
+| ShopSmart Customer Segmentation | Cluster Analysis | ¿Qué segmentos naturales existen en la base de clientes? | 5 clusters identificados; *High-Value Loyalists* representan 18% pero generan 45% de los ingresos | *Link pendiente* |
