@@ -15,3 +15,41 @@ En particular, se generaron tres diferentes proyectos, cada uno enfocado en situ
 | TechnoServe Customer Satisfaction | Factor Analysis | ¿Qué dimensiones latentes impulsan la satisfacción del cliente? | La satisfacción general está explicada en un 60% siendo *Excelencia Técnica* el factor más importante | [Ver caso →](./case-01-factor-analysis/) |
 | LendSmart Credit Risk | Discriminant Analysis | ¿Cómo clasificar aplicantes de crédito en categorías de riesgo? | Modelo con 100% en todas las métricas para QDA y LDA| [Ver caso →](./case-02-discriminant-analysis/)  |
 | ShopSmart Customer Segmentation | Cluster Analysis | ¿Qué segmentos naturales existen en la base de clientes? | 5 clusters identificados; *High-Value Loyalists* representan 18% pero generan 45% de los ingresos | *Link pendiente* |
+
+
+##  Instrucciones de reproducibilidad
+
+
+## Estructura del repositorio
+mi-portfolio-ma2003b/
+│
+├── README.md                  # Portada y descripción general del portafolio
+├── LICENSE                    # Licencia del proyecto
+├── requirements.txt           # Librerías necesarias para reproducir los casos
+├── .gitignore                 # Archivos y carpetas ignorados por Git
+│
+├── case-01-factor-analysis/
+│   ├── README.md              # Documentación específica del caso 01
+│   ├── data/                  # Datos crudos y diccionario de variables
+│   ├── notebooks/             # Notebook con el análisis paso a paso
+│   ├── reports/               # Reporte ejecutivo y reporte técnico
+│   ├── src/                   # Funciones auxiliares utilizadas
+│   └── visualizations/        # Gráficas generadas en el análisis
+│
+├── case-02-credit-risk/
+│   ├── README.md
+│   ├── data/
+│   ├── notebooks/
+│   ├── reports/
+│   ├── src/
+│   └── visualizations/
+│
+└── case-03-customer-segmentation/
+    ├── README.md
+    ├── data/
+    ├── notebooks/
+    ├── reports/
+    ├── src/
+    └── visualizations/
+
+
