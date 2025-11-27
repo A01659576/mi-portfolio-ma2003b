@@ -53,3 +53,28 @@ mi-portfolio-ma2003b/
     ├── src/
     └── visualizations/
 ```
+
+
+### `case-XX-nombre/`
+Carpeta principal de cada caso del portafolio. Contiene todos los elementos necesarios para reproducir ese análisis: datos, notebook, funciones auxiliares, visualizaciones y reportes.
+
+### `data/`
+Incluye las bases de datos utilizadas en cada caso (archivos CSV, diccionarios de datos u otros recursos necesarios para el análisis).
+
+### `notebooks/`
+Contiene los notebooks de Jupyter donde se desarrolla paso a paso el análisis estadístico, con código, visualizaciones e interpretación.
+
+### `reports/`
+Almacena los reportes generados para cada caso: informe ejecutivo y reporte técnico. Son documentos finales que resumen metodología, hallazgos e implicaciones.
+
+### `src/`
+Incluye código auxiliar o funciones Python reutilizables dentro del caso, como transformaciones, limpieza de datos o funciones de modelado.
+
+### `visualizations/`
+Carpeta que guarda todas las figuras, gráficos y visualizaciones producidas durante el análisis de cada caso.
+
+### `requirements.txt`
+Archivo que contiene la lista única de dependencias necesarias para reproducir cualquiera de los casos del portafolio.
+
+### `README.md` (raíz)
+Documento principal del portafolio: incluye título, propósito, tabla de casos, instrucciones de reproducibilidad y estructura del repositorio.
